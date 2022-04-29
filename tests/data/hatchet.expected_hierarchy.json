@@ -1,0 +1,14 @@
+[
+  "main",
+  "main/computational_core",
+  "main/computational_core/process_neurons",
+  "main/computational_core/process_neurons/multi_threaded",
+  "main/computational_core/process_neurons/multi_threaded/processing",
+  "main/computational_core/process_neurons/multi_threaded/processing/compute_overlap",
+  "main/computational_core/process_neurons/multi_threaded/processing/filter",
+  "main/computational_core/process_neurons/multi_threaded/reading",
+  "main/computational_core/process_neurons/multi_threaded/writing",
+  "main/redistribute_neurons",
+  "main/redistribute_neurons/balance",
+  "main/redistribute_neurons/sort"
+]
