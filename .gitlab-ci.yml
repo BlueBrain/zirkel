@@ -1,2 +1,2 @@
-nothing:
-  - script: echo "success"
+test-nothing:
+  script: echo "success"
