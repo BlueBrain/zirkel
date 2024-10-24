@@ -41,3 +41,11 @@ tree.scan(zirkel.InclusiveTimeScan(excl_key="excl_time", incl_key="incl_time"))
 # print the computed inclusive time.
 zirkel.print_data("incl_time")
 ```
+
+# Funding
+The development of this software was supported by funding to the Blue Brain
+Project, a research center of the ecole polytechnique federale de lausanne
+(EPFL), from the Swiss government's ETH Board of the Swiss Federal Institutes
+of Technology.
+
+Copyright (c) 2022 Blue Brain Project/EPFL
