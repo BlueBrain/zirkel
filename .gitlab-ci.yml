@@ -1,3 +1,2 @@
 nothing:
-  - script:
-    echo "success"
+  - script: echo "success"
